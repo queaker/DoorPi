@@ -72,7 +72,7 @@ Installation
 * Raspbian und andere:
   Die Installation dieses Forks geschieht mithilfe der python setuptools. Abhängigkeiten müssen gegebenenfalls vorher installiert werden.::
 
-   git clone https://github.com/Wuestengecko/DoorPi.git
+   git clone https://github.com/queaker/DoorPi.git
    cd DoorPi
    python setup.py build
    sudo python setup.py install --prefix=/usr/local
@@ -152,7 +152,7 @@ Installation
 * Others (including Raspbian):
   Download and install this fork with python setuptools. You need to take care of dependencies yourself::
 
-   git clone https://github.com/Wuestengecko/DoorPi.git
+   git clone https://github.com/queaker/DoorPi.git
    cd DoorPi
    python setup.py build
    sudo python setup.py install --prefix=/usr/local
